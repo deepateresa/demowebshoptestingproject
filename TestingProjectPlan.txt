@@ -1,0 +1,109 @@
+# **🗓 10-Day Manual Testing Plan (2 Hours Daily)**
+**📅 Duration:** **Feb 28 - Mar 10, 2025**  
+**🎯 Goal:** To complete a structured manual testing project and upload it to GitHub.  
+**⏳ Daily Effort:** 2 hours/day  
+
+---
+
+## **📌 Day 1 (Feb 28) - Website Exploration & Feature Understanding**  
+**🎯 Goal:** Get familiar with `Demo Web Shop` features & note down test scenarios.  
+✅ Explore the website as a user.  
+✅ Identify core functionalities:  
+   - User Registration/Login  
+   - Product Browsing & Search  
+   - Cart Management  
+   - Checkout & Payment  
+   - Order History & User Account  
+✅ Note edge cases (invalid inputs, broken pages, missing validation).  
+✅ **Deliverable:** A document with website features & key scenarios.  
+(*******************DONE ON Feb 27 n Documented (WebSiteFeaturesandKeyScenarios.docx) on March 01)
+---
+
+## **📌 Day 2 (Mar 1) - Creating the Test Plan**  
+**🎯 Goal:** Define the testing scope, approach, and objectives.  
+✅ Write a **test plan** including:  
+   - Scope (What will be tested)  
+   - Approach (Types of testing)  
+   - Tools & Test Environment  
+   - Entry & Exit Criteria  
+   - Assumptions & Risks  
+✅ **Deliverable:** `Test_Plan.md` file for GitHub.  
+(*****************DONE Test Plan (TestPlan_DemoWebShop.docx) Created on Mar 01)
+---
+
+## **📌 Day 3 (Mar 2) - Writing Test Scenarios**  
+**🎯 Goal:** Define high-level test scenarios for each module.  
+✅ List **test scenarios** (e.g., "Verify user can register successfully").  
+✅ Categorize them into:  
+   - **Positive Scenarios** (valid inputs)  
+   - **Negative Scenarios** (invalid data, error handling)  
+✅ **Deliverable:** `Test_Scenarios.xlsx` or `.md`.  
+(*****************DONE wrote Test Scenarios Created (TestScenario_DemoWebShop.xlsx) on Mar 01/ Will update as we proceed , as of now completed; there is a confusion as how much detailed listing is needed here. I feel scenarios need to be high-level and detailed listing can be converted to testcases under each scenario. But if there is specific  User stories/Use cases/requirement, i think corresponding scenarios can be detailed)
+---
+
+## **📌 Day 4 (Mar 3) - Writing Detailed Test Cases (Login & Registration)**  
+**🎯 Goal:** Create step-by-step test cases for Login & Registration.  
+✅ **Include:**  
+   - Steps to execute  
+   - Expected vs. Actual result  
+   - Test data  
+✅ **Deliverable:** `Test_Cases.xlsx` (Login & Registration).  
+(******************* STARTED Testcase documentation started (TestCase_DemoWebShop.xlsx) on March 03, Login, Registration, ForgetPassword   ( Details to be updated))
+---
+
+## **📌 Day 5 (Mar 4) - Writing Test Cases for Cart, Checkout & Payment**  
+**🎯 Goal:** Add test cases for cart and checkout.  
+✅ **Include test cases for:**  
+   - Add/Remove items from cart  
+   - Payment with valid & invalid details  
+✅ **Deliverable:** Updated `Test_Cases.xlsx`.  
+
+---
+
+## **📌 Day 6 (Mar 5) - Writing Test Cases for Order History & Contact Us**  
+**🎯 Goal:** Finalize test cases for user account & history.  
+✅ Test cases for:  
+   - Order history page  
+   - Wishlist  
+   - Contact Us form validation  
+✅ **Deliverable:** Finalized `Test_Cases.xlsx`.  
+
+---
+
+## **📌 Day 7 (Mar 6) - Test Execution & Bug Logging (Login, Registration, Cart)**  
+**🎯 Goal:** Start executing test cases and log defects.  
+✅ Execute test cases for Login, Registration, and Cart.  
+✅ Identify and document **bugs** with screenshots.  
+✅ **Deliverable:** `Bug_Report.xlsx` (Initial).  
+
+---
+
+## **📌 Day 8 (Mar 7) - Test Execution & Bug Logging (Checkout, Order History)**  
+**🎯 Goal:** Continue testing and logging defects.  
+✅ Execute test cases for checkout, payments, and order history.  
+✅ **Deliverable:** Updated `Bug_Report.xlsx`.  
+
+---
+
+## **📌 Day 9 (Mar 8) - Test Summary Report**  
+**🎯 Goal:** Document test execution results.  
+✅ Write **Test Summary Report**:  
+   - Total test cases executed  
+   - Passed/Failed cases  
+   - Major defects found  
+✅ **Deliverable:** `Test_Summary_Report.md`.  
+
+---
+
+## **📌 Day 10 (Mar 10) - Upload Everything to GitHub & Final Review**  
+✅ Create a **GitHub repository**: `Manual-Testing-DemoWebShop`.  
+✅ Upload:  
+   - `README.md` (Project Overview)  
+   - `Test_Plan.md`  
+   - `Test_Scenarios.xlsx`  
+   - `Test_Cases.xlsx`  
+   - `Bug_Report.xlsx`  
+   - `Test_Summary_Report.md`  
+✅ **Deliverable:** GitHub link ready to showcase.  
+
+---
