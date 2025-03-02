@@ -48,7 +48,7 @@
    - Expected vs. Actual result  
    - Test data  
 ✅ **Deliverable:** `Test_Cases.xlsx` (Login & Registration).  
-(******************* STARTED Testcase documentation started (TestCase_DemoWebShop.xlsx) on March 03, Login, Registration, ForgetPassword   ( Details to be updated))
+(******************* STARTED Testcase documentation started (TestCase_DemoWebShop.xlsx) on March 02, Login, Registration, ForgetPassword   ( Details to be updated))
 ---
 
 ## **📌 Day 5 (Mar 4) - Writing Test Cases for Cart, Checkout & Payment**  
